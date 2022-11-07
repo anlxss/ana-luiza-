@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+}
+.bandeiras{
+	 width: 15%;
+}
+.jules{
+	width: 15%;	
+}
+.copa{
+	width: 20%;
+}
+.taça{
+	width: 20%;
+}
+.goleada{
+	width: 20%;
+}
+.ano{
+	width: 20%
+}
+body{background-color: pink;
+
+}
